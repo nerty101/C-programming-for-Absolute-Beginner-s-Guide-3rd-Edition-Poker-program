@@ -1,5 +1,8 @@
 # C-programming-for-Absolute-Beginner-s-Guide-3rd-Edition-Poker-program
 
+I am adding the publisher's/author's code as well AppendixBpoker.c which only gets 2 error messages....
+Hopefully the author's will debug it.  Still if you can I would appreciate it and I will update when I or they get it working.
+
 For me this is a long and complicated program and I have been unable to get it to compile.
 
 Here are the error messages (using gcc on Linux Mint 18)
