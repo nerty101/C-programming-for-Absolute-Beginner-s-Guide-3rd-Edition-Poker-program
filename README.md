@@ -1,7 +1,9 @@
 # C-programming-for-Absolute-Beginner-s-Guide-3rd-Edition-Poker-program
 
-I am adding the publisher's/author's code as well AppendixBpoker.c which only gets 2 error messages....
-Hopefully the author's will debug it.  Still if you can I would appreciate it and I will update when I or they get it working.
+I added the publisher's/author's code as AppendixBpoker.c compiles with with 2 error/warning messages....
+
+I added a modified version of the above as AppendicBpoker2.c which compiles with one warning message
+Both of these versions sometimes hang up (infinite loop?) when a bet is placed - ?? 
 
 For me this is a long and complicated program and I have been unable to get it to compile.
 
